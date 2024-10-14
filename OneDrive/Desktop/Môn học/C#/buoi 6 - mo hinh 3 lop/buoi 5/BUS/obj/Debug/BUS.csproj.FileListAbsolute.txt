@@ -1,0 +1,30 @@
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\BUS.dll.config
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\DAL.dll
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\DAL.pdb
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\DAL.dll.config
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\buoi 5\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\buoi 5\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\buoi 5\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\buoi 5\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Administrator\source\repos\buoi 5\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\source\repos\buoi 5\BUS\obj\Debug\BUS.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\BUS.dll.config
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\BUS.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\BUS.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\DAL.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\EntityFramework.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\DAL.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\DAL.dll.config
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\EntityFramework.xml
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\obj\Debug\BUS.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\BUS\obj\Debug\BUS.pdb
