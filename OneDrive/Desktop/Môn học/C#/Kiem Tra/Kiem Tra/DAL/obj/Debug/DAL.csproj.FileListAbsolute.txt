@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\DAL.dll.config
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\buoi 5\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\buoi 5\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\buoi 5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\buoi 5\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Administrator\source\repos\buoi 5\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\source\repos\buoi 5\DAL\obj\Debug\DAL.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\DAL.dll.config
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\DAL.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\DAL.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\EntityFramework.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\EntityFramework.xml
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\obj\Debug\DAL.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\DAL\obj\Debug\DAL.pdb
