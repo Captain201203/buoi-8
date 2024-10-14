@@ -1,0 +1,44 @@
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\buoi 5.exe.config
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\buoi 5.exe
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\buoi 5.pdb
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\BUS.dll
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\DAL.dll
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\BUS.pdb
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\BUS.dll.config
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\DAL.pdb
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\DAL.dll.config
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\buoi_5.Properties.Resources.resources
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\buoi 5.exe
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\buoi 5.pdb
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\buoi_6___mo_hinh_3_lop.Form1.resources
+C:\Users\Administrator\source\repos\buoi 5\buoi 5\obj\Debug\buoi_5.Form2.resources
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\buoi 5.exe.config
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\buoi 5.exe
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\buoi 5.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\BUS.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\DAL.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\EntityFramework.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\BUS.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\BUS.dll.config
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\DAL.pdb
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\DAL.dll.config
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\EntityFramework.xml
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\buoi_6___mo_hinh_3_lop.Form1.resources
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\buoi_5.Form2.resources
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\buoi_5.Properties.Resources.resources
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\GUI.csproj.Up2Date
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\buoi 5.exe
+C:\Users\edito\OneDrive\Desktop\Môn học\C#\buoi 6 - mo hinh 3 lop\buoi 5\buoi 5\obj\Debug\buoi 5.pdb
