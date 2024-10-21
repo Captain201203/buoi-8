@@ -1,0 +1,15 @@
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\dâtbinding.exe.config
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\dâtbinding.exe
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\dâtbinding.pdb
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\EntityFramework.dll
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\EntityFramework.xml
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\databinding.csproj.AssemblyReference.cache
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\dâtbinding.Form1.resources
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\dâtbinding.Properties.Resources.resources
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\databinding.csproj.GenerateResource.cache
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\databinding.csproj.CoreCompileInputs.cache
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\databind.64F70A01.Up2Date
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\dâtbinding.exe
+C:\Users\edito\source\repos\dâtbinding\dâtbinding\obj\Debug\dâtbinding.pdb
